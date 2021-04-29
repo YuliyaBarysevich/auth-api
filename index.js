@@ -10,7 +10,7 @@ const PORT = process.env.PORT || 3333;
 const options = {
   useNewUrlParser: true,
   useCreateIndex: true,
-  useUnifiedTopology: true,
+  useUnifiedTopology: true
 };
 
 mongoose.connect(process.env.MONGODB_URI, options)
