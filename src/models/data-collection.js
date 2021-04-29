@@ -20,7 +20,7 @@ class DataCollection {
     return newRecord.save()
   }
 
-  update(record){
+  update(_id, record){
     return this.model.findByIdAndUpdate(_id, record, { new: true });
   }
 
