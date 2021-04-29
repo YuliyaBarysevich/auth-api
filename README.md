@@ -9,9 +9,11 @@
 
 1. Deployed with Heroku (2 routes) **/Currently I cannot deploy with mongoDB, trying to resolve it/**
 
-    - [Heroku / Sign Up]()
-    - [Heroku/ Sign In]()
-    change to push
+    - [Heroku / Sign Up](https://barysevich-auth-api.herokuapp.com/signup)
+    - [Heroku/ Sign In](https://barysevich-auth-api.herokuapp.com/signin)
+    - [Heroku / api/v1/clothes route](https://barysevich-auth-api.herokuapp.com/api/v1/clothes)
+    - [Heroku / api/v1/food route](https://barysevich-auth-api.herokuapp.com/api/v1/food)
+    
 
 
 
