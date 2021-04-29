@@ -7,7 +7,7 @@
 
 ### Links and Resources
 
-1. Deployed with Heroku (2 routes)
+1. Deployed with Heroku (2 routes) **/Currently I cannot deploy with mongoDB, trying to resolve it/**
 
     - [Heroku / Sign Up]()
     - [Heroku/ Sign In]()
@@ -16,8 +16,8 @@
 
 2. Github URLs
 
-    - [GitHub Pull Request]()
-    - [GitHub Actions]()
+    - [GitHub Pull Request](https://github.com/YuliyaBarysevich/auth-api/pull/1)
+    - [GitHub Actions](https://github.com/YuliyaBarysevich/auth-api/runs/2464028236)
   
 ### User Stories 
 
